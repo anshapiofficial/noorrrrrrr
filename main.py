@@ -29,7 +29,7 @@ PORT = int(os.environ.get('PORT', 1000))
 # ============================================
 # 📡 APIs
 # ============================================
-NUMBER_INFO_API = "https://numinfo.asapiservices.workers.dev/mobile-lookup?key=anshapi&mobile="
+NUMBER_INFO_API = "https://numinfo.asapiservices.workers.dev/mobile-lookup?key=anshapi123&mobile="
 
 # ============================================
 # 💾 Files
